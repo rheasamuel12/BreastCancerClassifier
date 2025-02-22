@@ -28,11 +28,3 @@ This project aims to predict whether a breast cancer patient will experience a r
 ## Model Training and Performance 
 - Implemented classification models: KNN, KNN using GridSearchCV, and Linear classification.  
 - Evaluated performance using accuracy, precision, recall, and F1-score.  
-
-
-## Usage  
-Clone the repository and run the provided scripts to preprocess the data and train models:  
-```bash
-git clone <repository-url>
-cd breast-cancer-prediction
-python train_model.py
